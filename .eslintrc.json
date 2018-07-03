@@ -1,0 +1,10 @@
+{
+  "parserOptions": {
+    "target": "ES6",
+    "module": "commonjs",
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  }
+
+}
